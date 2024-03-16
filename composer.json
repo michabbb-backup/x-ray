@@ -1,5 +1,5 @@
 {
-    "name": "spatie/x-ray",
+    "name": "michabbb-backup/x-ray",
     "description": "Quickly scan source code for calls to Ray",
     "license": "MIT",
     "keywords": [
