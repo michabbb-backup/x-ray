@@ -26,7 +26,7 @@ class Configuration
             $this->hideProgress = true;
         }
 
-        $this->functions = ConfigurationItemList::make(['ray', 'rd']);
+        $this->functions = ConfigurationItemList::make(['ray', 'rd','xr']);
         $this->pathnames = new ConfigurationItemList();
     }
 
